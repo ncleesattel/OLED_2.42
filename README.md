@@ -22,8 +22,8 @@ Worst case you just need one and can't share the cost of the other four equals t
 
 ## pictures
 
-![OLED 242 3d pcb](/oled242_pcb/img/OLED242_3d_assy.JPG)
+![OLED 242 3d pcb](/img/OLED242_3d_assy.JPG)
 
-![OLED 242 2d pcb](/oled242_pcb/img/OLED242_2d_pcb.JPG)
+![OLED 242 2d pcb](/img/OLED242_2d_pcb.JPG)
 
-![OLED 242 3d disp](/oled242_pcb/img/OLED242_3d_disp.JPG)
+![OLED 242 3d disp](/img/OLED242_3d_disp.JPG)
