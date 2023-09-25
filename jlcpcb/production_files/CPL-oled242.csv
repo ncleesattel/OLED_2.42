@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C3,4.7uF,C_0805_2012Metric,27.0,-4.0,90.0,top
+C4,0.1uF,C_0603_1608Metric,25.0,-4.0,90.0,top
+C5,22uF,C_1206_3216Metric,50.5,-16.525,-90.0,top
+C6,22uF,C_1206_3216Metric,53.5,-16.525,-90.0,top
+C10,4.7uF,C_0402_1005Metric,55.8875,-33.07,-90.0,top
+C11,560pF,C_0402_1005Metric,67.25,-38.25,180.0,top
+C12,47uF,C_1210_3225Metric,64.3625,-29.55,0.0,top
+D10,D_Schottky,D_SOD-323,64.6125,-34.0,180.0,top
+J1,Conn_01x24,Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal,37.0,-10.05,0.0,top
+J3,Conn_01x07,PinHeader_1x07_P2.54mm_Vertical,71.0,-22.0,180.0,top
+L10,22uH,C_1210_3225Metric,59.6375,-34.0,0.0,top
+R3,4.7k,R_0603_1608Metric,22.25,-33.325,-90.0,top
+R4,4.7k,R_0603_1608Metric,20.0,-33.325,90.0,top
+R8,4.7k,R_0603_1608Metric,26.75,-33.325,90.0,top
+R9,4.7k,R_0603_1608Metric,24.5,-33.325,90.0,top
+R10,10k,R_0603_1608Metric,55.8875,-29.55,90.0,top
+R11,10k,R_0603_1608Metric,68.4,-34.925,90.0,top
+R12,93.1k,R_0603_1608Metric,70.9,-34.925,-90.0,top
+SW1,SW_DIP_x08,SW_DIP_SPSTx08_Slide_Omron_A6H-8101_W6.15mm_P1.27mm,48.25,-30.135,0.0,top
+TP1,TestPoint,OLED_slot,16.5,-3.0,180.0,top
+TP2,TestPoint,OLED_slot,57.5,-3.0,180.0,top
+TP3,TestPoint,OLED_slot,14.75,-42.0,0.0,top
+TP4,OLED_slot,OLED_slot,59.25,-42.0,0.0,top
+U10,LMR62421XMF,SOT-23-5,59.3875,-29.55,0.0,top

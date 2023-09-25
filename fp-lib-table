@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/norm/OneDrive/Dokumente/KiCad/6.0/footprints")(options "")(descr ""))
+  (lib (name "KiCADfootprint")(type "KiCad")(uri "C:/Users/norm/OneDrive/Dokumente/KiCad/6.0/footprints/KiCADfootprint.pretty")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "C:/Users/norm/OneDrive/Dokumente/KiCad/6.0/footprints/OLED.pretty")(options "")(descr ""))
+)
